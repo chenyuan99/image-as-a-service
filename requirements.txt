@@ -1,0 +1,23 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1636542074879/work
+cryptography @ file:///C:/ci/cryptography_1635348572149/work
+Deprecated==1.2.13
+dj-database-url==0.5.0
+Django @ file:///tmp/build/80754af9/django_1612212120213/work
+django-filter==21.1
+django-heroku==0.3.1
+django-redis==5.0.0
+importlib-metadata @ file:///C:/ci/importlib-metadata_1631916848487/work
+Markdown @ file:///C:/ci/markdown_1614364121613/work
+psycopg2 @ file:///C:/ci/psycopg2_1612298803839/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyMySQL @ file:///C:/ci/pymysql_1610482945113/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+redis==4.0.1
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+whitenoise==5.3.0
+wincertstore==0.2
+wrapt==1.13.3
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
+fedex
